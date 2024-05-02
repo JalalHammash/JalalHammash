@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JalalHammash ، I’m interested in programming and I’m currently learning web development.
+- 👋 Hi, I’m @JalalHammash ،a fullstack developer.
 
 
 <!---
